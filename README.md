@@ -14,9 +14,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="screens/1.png" width="150"/></td>
-      <td><img src="screens/2.png" width="150"/></td>
-      <td><img src="screens/3.png" width="150"/></td>
+      <td><img src="<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/25b1498e-363c-4efa-920f-bb3d5dee19b9" />
+" width="150"/></td>
     </tr>
   </table>
 </div>
