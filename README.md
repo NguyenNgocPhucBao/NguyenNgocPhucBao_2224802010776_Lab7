@@ -2,7 +2,7 @@
 Ứng dụng màn hình đăng nhập đơn giản được xây dựng bằng Flutter với giao diện hiện đại và dễ sử dụng.
 
 ## Live code
-(https://drive.google.com/drive/folders/1pAlVjdEPB3lqzR0KgF--tIvwiiUG1-ge?hl=vi)
+https://youtu.be/mqz0x_Ok_QI?si=MsH8D8RgFmofmizN
 
 ---
 
