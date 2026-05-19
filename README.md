@@ -1,17 +1,31 @@
 # lab7_login
+Ứng dụng màn hình đăng nhập đơn giản được xây dựng bằng Flutter với giao diện hiện đại và dễ sử dụng.
 
-A new Flutter project.
+## Live code
+(https://drive.google.com/drive/folders/1pAlVjdEPB3lqzR0KgF--tIvwiiUG1-ge?hl=vi)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Tài khoản mặc định
+- Email: test@gmail.com
+- Mật khẩu: 123456
 
-A few resources to get you started if this is your first Flutter project:
+## Giao diện
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screens/1.png" width="150"/></td>
+      <td><img src="screens/2.png" width="150"/></td>
+      <td><img src="screens/3.png" width="150"/></td>
+    </tr>
+  </table>
+</div>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cách chạy project
+```bash
+git clone https://github.com/NguyenNgocPhucBao/NguyenNgocPhucBao_2224802010776_Lab7.git
+cd lab7_login
+flutter run
+```
